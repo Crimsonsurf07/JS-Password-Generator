@@ -1,6 +1,6 @@
-                               Password Generator
+                                                 Password Generator
 
-					Summary
+					                 Summary
 
 The purpose of this assignment was to test our basic understanding of JavaScript we just acquired pertaining to functions, loops, arrays, if statements, ect. We were provided with the HTML and CSS allowing us to focus on the task at hand. Adding functionality to the currently non-functional Password Generator. Resulting in a password being generated after a series of Question Prompts / Confirms are answered by the user. The user input to the questions determines the length and the the security strength of the password being generated.
 
@@ -10,7 +10,7 @@ The purpose of this assignment was to test our basic understanding of JavaScript
 
 
 
-					Details
+					                Details
 
 * Create a functioning Password Generator Using JavaScript
 * We were provided with the HTML and CSS Code
