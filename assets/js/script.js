@@ -59,11 +59,11 @@ function askPrompts() {
   if (characterLength < 8 || characterLength > 128) {
     alert("Sorry You Must Choose A Password Length That Meets The Criteria. Please Try Again!");
     
-  } 
-  if (characterLength === "" || characterLength === null) {
+  } if (characterLength === "" || characterLength === null) {
     alert("Uh Oh! We can't move forward without a vailid answer. Please Try Again!");
     end;
     return false;
+  
   };
 
   
