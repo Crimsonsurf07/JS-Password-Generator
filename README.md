@@ -1,4 +1,4 @@
-                                                 Password Generator
+                                            My Javascript Password Generator Project
 
 					                 Summary
 
